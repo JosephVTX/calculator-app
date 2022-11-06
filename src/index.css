@@ -1,0 +1,68 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+@layer base {
+
+[data-theme="1"] {
+
+    --bg-total: #3b4664;
+    --bg-board: #252d44;
+    --text-display: #fff;
+    --bg-display: #181f32;
+    --text-color-buttom: #444a58;
+    --text-color-buttom-operate: #fff;
+    --bg-buttom-number: #eae3db;
+    --border-buttom-number: #b3a396;
+    --bg-reset-del: #a2b3e1;
+    --border-reset-del: #435071;
+    --bg-buttom-equal: #f96c5b;
+    --border-buttom-equal: #922821;
+    --text-color-equal:  #fff;
+    --text-color-theme: #fff;
+
+}
+
+[data-theme="2"] {
+
+    --bg-total: #E6E6E6;
+    --bg-board: #D3CDCD;
+    --text-display: #35352D;
+    --bg-display: #EEEEEE;
+    --text-color-buttom: #35352D;
+    --text-color-buttom-operate: #fff;
+    --bg-buttom-number: #E5E4E0;
+    --border-buttom-number: #A69D91;
+    --bg-reset-del: #62B5BD;
+    --border-reset-del: #165B61;
+    --bg-buttom-equal: #FF8B38;
+    --border-buttom-equal: #823300;
+    --text-color-equal:  #fff;
+    --text-color-theme: #35352D;
+
+}
+
+[data-theme="3"] {
+    --bg-total: #17062A;
+    --bg-board: #1E0836;
+    --text-display: #FFE23F;
+    --bg-display: #1E0836;
+    --text-color-buttom: #FFE23F;
+    --text-color-buttom-operate: #fff;
+    --bg-buttom-number: #331B4D;
+    --border-buttom-number: #7B2391;
+    --bg-reset-del: #8631B0;
+    --border-reset-del: #C119F5;
+    --bg-buttom-equal: #94FFF9;
+    --border-buttom-equal: #6DF9F0;
+    --text-color-equal:  #000;
+    --text-color-theme: #FFE23F;
+
+}
+}
+
+
+
