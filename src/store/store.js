@@ -3,4 +3,4 @@ import { atom } from "jotai";
 
 export const textDisplayAtom = atom("")
 
-export const themeAtom = atom(3)
+export const themeAtom = atom(1)

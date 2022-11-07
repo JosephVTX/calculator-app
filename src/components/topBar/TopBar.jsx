@@ -24,7 +24,7 @@ export const TopBar = () => {
             className="w-[5rem]"
             onChange={(e) => setTheme(e.target.value)}
             type="range"
-            defaultValue="3"
+            defaultValue="1"
             min="1"
             max="3"
           />
