@@ -43,12 +43,12 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-<h2>Solution: </h2>
+<h3>Solution: </h3>
 
 - Astro Version: [https://github.com/JosephVTX/calculator-app/tree/astro]
 - React Version: [https://github.com/JosephVTX/calculator-app]
 
-<h2>Live Site URL: </h2>: 
+<h3>Live Site URL: </h3>: 
 
 - Astro Version: [https://josephvtx.github.io/calculator-app/]
 - React Version: [https://superb-boba-b0b0b5.netlify.app/]
