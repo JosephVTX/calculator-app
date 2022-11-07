@@ -54,8 +54,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - React Version: [https://superb-boba-b0b0b5.netlify.app/]
 
 
-[https://superb-boba-b0b0b5.netlify.app/]
-
 ## My process
 
 ### Built with
