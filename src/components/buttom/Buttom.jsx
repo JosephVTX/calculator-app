@@ -58,7 +58,7 @@ export const ButtomReset = ({ handleReset }) => {
       validText={false}
       bgColor="bg-[var(--bg-reset-del)]"
       borderColor="border-[var(--border-reset-del)]"
-      text="DEL"
+      text="RESET"
       textColor="text-[var(--text-color-buttom-operate)]"
       col="col-span-2"
     />
