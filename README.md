@@ -43,8 +43,18 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [https://github.com/JosephVTX/calculator-app]
-- Live Site URL: [https://superb-boba-b0b0b5.netlify.app/]
+<h2>Solution: </h2>
+
+- Astro Version: [https://github.com/JosephVTX/calculator-app/tree/astro]
+- React Version: [https://github.com/JosephVTX/calculator-app]
+
+<h2>Live Site URL: </h2>: 
+
+- Astro Version: [https://josephvtx.github.io/calculator-app/]
+- React Version: [https://superb-boba-b0b0b5.netlify.app/]
+
+
+[https://superb-boba-b0b0b5.netlify.app/]
 
 ## My process
 
